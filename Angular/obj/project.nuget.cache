@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "agzRVlHwtEFyG487Z3EYjA4dEHNaRtNY20XpmVgqnKHME+Pen/RzgQTzHAdCFkkyQ4+kOilTKR4NfVv1G7fRPg==",
+  "success": true,
+  "projectFilePath": "/Users/vickk/Projects/Angular/Angular/Angular.csproj",
+  "expectedPackageFiles": [
+    "/Users/vickk/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.10/microsoft.aspnetcore.spaproxy.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "reVtGzPrdDLxbNPlX+UcyJeLSdJVxMyTbP904pOVzWQ=",
+  "Source": "Angular",
+  "BasePath": "_content/Angular",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Angular/wwwroot",
+      "Source": "Angular",
+      "ContentRoot": "/Users/vickk/Projects/Angular/Angular/wwwroot/",
+      "BasePath": "_content/Angular",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/vickk/Projects/Angular/Angular/wwwroot/favicon.ico",
+      "SourceId": "Angular",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vickk/Projects/Angular/Angular/wwwroot/",
+      "BasePath": "_content/Angular",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
